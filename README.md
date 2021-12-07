@@ -1,14 +1,10 @@
 @Author
-Team Dubai 
 Niharika Rajaram - nxr190029
-Xinhai Li - xxl180005
-Sai Pranav Reddy Donthidi - sxd200125
-Pavan Sai Pabbisetty - pxp210011
-Mahesh Bhadra Chava - mxc200051
 
 ******************************************************************
 ____Steps to compile and run the program____
-Extract Team_Dubai.zip and change directory to the folder/src
+Extract Team_Dubai.zip and change directory to the folder
+
 Run the following code:
 
 javac DavisBase.java
